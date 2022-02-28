@@ -1,4 +1,4 @@
-def ttt():
+def tttom():
     print("ttt")
 
 
