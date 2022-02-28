@@ -1,4 +1,4 @@
-def ttt():
+def tttom():
     print("ttt")
 
 
@@ -6,6 +6,8 @@ def ttt():
 def aaa():
     print("aaa")
     print('HELLO TOM!')
+    print('NO')
+
 
 def bbb():
     print("bbb")
