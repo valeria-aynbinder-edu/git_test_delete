@@ -5,6 +5,7 @@ def ttt():
 
 def aaa():
     print("aaa")
+    print("aaa")
 
 
 def bbb():
